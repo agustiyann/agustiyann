@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![typing](typing.gif)
+
 I'm [Agus Tiyansyah Syam](https://twitter.com/SyamTiyansyah), a **passionate iOS Developer** & **IT Undergrad Student** from Indonesia :indonesia: 👨🏻‍💻
 
 ### GitHub Stats :bar_chart:
