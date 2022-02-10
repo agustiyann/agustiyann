@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![typing](typing.gif)
+<img src="typing.gif" width="300" />
 
 I'm [Agus Tiyansyah Syam](https://twitter.com/SyamTiyansyah), 👨🏻‍💻 a **passionate iOS Developer** & **IT Undergrad Student** from Indonesia :indonesia:
 
