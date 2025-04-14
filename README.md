@@ -2,9 +2,9 @@
 
 <img src="typing.gif" width="300" />
 
-- 🔭 I’m currently working on [Alfagift iOS App](https://apps.apple.com/id/app/alfagift-alfamart-online-shop/id1013717463)
+- 🔭 I’m currently working on an iOS and Android app
 
-- 🌱 I’m currently learning **all about Python**
+- 🌱 I’m currently learning **AI, iOS, Android, Project Management**
 
 - 👯 I’m looking to collaborate on **iOS App/SDK Development**
 
