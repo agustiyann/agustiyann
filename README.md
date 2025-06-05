@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on an iOS and Android app
 
-- 🌱 I’m currently learning **AI, iOS, Android, Project Management**
+- 🌱 I’m currently learning **AI, Crypto, iOS, Android, Project Management**
 
 - 👯 I’m looking to collaborate on **iOS App/SDK Development**
 
